@@ -38,6 +38,8 @@
         "object-curly-newline": "error",
         "array-bracket-newline": "error",
         "@typescript-eslint/explicit-module-boundary-types": "off",
+        "no-trailing-spaces": "error",
+        "no-multiple-empty-lines": "error",
         "semi": [
             "error",
             "never"
